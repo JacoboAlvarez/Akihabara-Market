@@ -28,12 +28,12 @@
 ### Config.properties
 
 -Si lo hemos clonado de git, no tendra el archivo "confi.properties", en caso de que no este lo tendremos que crear nosotros a la altura del proyecto [src/main/java]
-Tiene que tener la siguiente estructura:
+Tiene que tener la siguiente estructura: <br>
 
-db.user=Akihabara_JAD
-db.pass=(Tu contraseña de MYSQL Workbench)
-db.URL=jdbc:mysql://localhost:3306/AkihabaraDB
-api.key=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
+db.user=Akihabara_JAD <br>
+db.pass=(Tu contraseña de MYSQL Workbench) <br>
+db.URL=jdbc:mysql://localhost:3306/AkihabaraDB <br>
+api.key=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 <br>
 
 --
 ### MYSQL
