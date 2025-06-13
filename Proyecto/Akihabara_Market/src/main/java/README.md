@@ -33,7 +33,7 @@ Tiene que tener la siguiente estructura: <br>
 db.user=Akihabara_JAD <br>
 db.pass=(Tu contraseña de MYSQL Workbench) <br>
 db.URL=jdbc:mysql://localhost:3306/AkihabaraDB <br>
-api.key=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 <br>
+api.key=(AQUI VA TU API KEY)<br>
 
 --
 ### MYSQL
