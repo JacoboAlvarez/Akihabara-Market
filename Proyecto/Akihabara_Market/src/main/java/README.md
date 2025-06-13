@@ -25,6 +25,16 @@
 - Uso de API's
 - POO
 
+###Config.properties
+-Si lo hemos clonado de git, no tendra el archivo "confi.properties", en caso de que no este lo tendremos que crear nosotros a la altura del proyecto [src/main/java]
+Tiene que tener la siguiente estructura:
+
+db.user=Akihabara_JAD
+db.pass=(Tu contraseña de MYSQL Workbench)
+db.URL=jdbc:mysql://localhost:3306/AkihabaraDB
+api.key=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
+
+--
 ### MYSQL
 
 **IMPORTANTE**: HAY QUE CAMBIAR LA CONTRASEÑA DE SQL, YA QUE CADA UNO EN SU EQUIPO LOCAL TENEMOS UNA DISTINTA PARA ELLO:
