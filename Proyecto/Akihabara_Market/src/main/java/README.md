@@ -25,7 +25,8 @@
 - Uso de API's
 - POO
 
-###Config.properties
+### Config.properties
+
 -Si lo hemos clonado de git, no tendra el archivo "confi.properties", en caso de que no este lo tendremos que crear nosotros a la altura del proyecto [src/main/java]
 Tiene que tener la siguiente estructura:
 
